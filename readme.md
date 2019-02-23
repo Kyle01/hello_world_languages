@@ -7,6 +7,8 @@ The goal of this project is to build multiple 'hello world' files in many langua
 * Ruby 
 * Rust 
 * Python 3
+* Javascript 
+* HTML/CSS (lolz)
 
 #### Languages to complete 
 * C 
