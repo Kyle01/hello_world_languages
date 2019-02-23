@@ -6,10 +6,12 @@ The goal of this project is to build multiple 'hello world' files in many langua
 #### Completed languages 
 * Ruby 
 * Rust 
+* Python 3
 
 #### Languages to complete 
 * C 
 * C++
 * Haskell
-* Python 3 
 
+#### Languages of interest 
+* Wolfram Mathematica 
