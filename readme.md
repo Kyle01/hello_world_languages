@@ -8,12 +8,16 @@ The goal of this project is to build multiple 'hello world' files in many langua
 * Rust 
 * Python 3
 * Javascript 
+* bash
 * HTML/CSS (lolz)
 
 #### Languages to complete 
 * C 
 * C++
 * Haskell
+* C#
+* F#
+* ReasonML
 
 #### Languages of interest 
 * Wolfram Mathematica 
