@@ -8,6 +8,7 @@ The goal of this project is to build multiple 'hello world' files in many langua
 
 - bash
 - C
+- C#
 - Elixir
 - HTML/CSS
 - Javascript
@@ -18,9 +19,8 @@ The goal of this project is to build multiple 'hello world' files in many langua
 #### Languages to complete
 
 - C++
-- Haskell
-- C#
 - F#
+- Haskell
 - ReasonML
 
 #### Languages of interest
